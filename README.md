@@ -6,8 +6,8 @@
 These are the instructions for the Autumn project in 2021.
 This project will be worth 100% of your marks for this module, unless otherwise agreed in advance with the lecturer.
 Your whole submission should be in the form of a single GitHub repository.
-The commit history of the repository should reflect the effort you put into your submission.
-Your last pushed commit to your repository before the deadline will form your submission.
+The commit history of the repository should reflect the effort you put into it.
+Your last pushed commit before the deadline will form your submission.
 You should immediately create this repository and submit its URL using the following form.
 
 
