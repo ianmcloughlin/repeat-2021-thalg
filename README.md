@@ -54,7 +54,7 @@ You should make use of referencing to demonstrate that your answers are backed u
 3. Explain what a hash collision is.
 
 
-#### Enhancements
+## Enhancements
 
 To enhance your submission, and potentially enhance your mark, you might consider implementing some or all of the following features.
 
